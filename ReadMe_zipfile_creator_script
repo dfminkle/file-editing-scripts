@@ -6,3 +6,7 @@ This feature would eliminate the need to paste in long file path names manually 
 
 Ideas for future: 
  Would be neat to be able to run the whole program straight from the command line. 
+
+Issues:
+ Could not get os.close() to work properly. Right now, you need to shutdown the kernel in order for python to properly close out of the file.
+ It's a hassle that should have a fix somewhere...
