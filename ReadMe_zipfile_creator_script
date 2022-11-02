@@ -1,0 +1,8 @@
+Program which creates zipfiles based on file name commonality. 
+
+Also in this notebook is a POC for using the tkinter package to use a graphical windows interface to choose the file directory of interest. 
+This was not fully implemented, but it does look like it would work. 
+This feature would eliminate the need to paste in long file path names manually into the script. 
+
+Ideas for future: 
+ Would be neat to be able to run the whole program straight from the command line. 
