@@ -1,0 +1,2 @@
+Written to scan through file names and check for files names that are too long, have special characters, or have bad zip files.
+This should work for searching through an entire directory. 
